@@ -24,7 +24,7 @@ public class Program
     public static void main (String args[]) throws IOException
     {
         Experiment exp1;
-        Experiment exp2;
+        Experiment exp2; 
 
         exp1 = arch1.loadExperiment();
         exp2 = arch2.loadExperiment();
