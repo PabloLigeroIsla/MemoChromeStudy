@@ -1,0 +1,956 @@
+------------------------------------
+
+Experiment: Experiment1
+
+------------------------------------
+
+
+    Type of the FlyGroup: NaRUT
+
+    -----------------------------
+
+    Number of Genes: 1152
+
+
+    Number of States: 20
+
+
+      state 1
+: 18 genes
+
+
+      state 10
+: 99 genes
+
+
+      state 11
+: 83 genes
+
+
+      state 12
+: 136 genes
+
+
+      state 13
+: 86 genes
+
+
+      state 14
+: 18 genes
+
+
+      state 15
+: 59 genes
+
+
+      state 16
+: 21 genes
+
+
+      state 17
+: 103 genes
+
+
+      state 18
+: 33 genes
+
+
+      state 19
+: 37 genes
+
+
+      state 2
+: 60 genes
+
+
+      state 20
+: 50 genes
+
+
+      state 3
+: 78 genes
+
+
+      state 4
+: 31 genes
+
+
+      state 5
+: 17 genes
+
+
+      state 6
+: 26 genes
+
+
+      state 7
+: 52 genes
+
+
+      state 8
+: 73 genes
+
+
+      state 9
+: 72 genes
+
+
+    Number of chromatinGroups: 6
+
+
+    HP1_R
+: 285 genes
+
+
+    Non_TrxG
+: 100 genes
+
+
+    Null_R
+: 57 genes
+
+
+    TrxG_M
+: 104 genes
+
+
+    TrxG_P
+: 438 genes
+
+
+    TrxG_R
+: 168 genes
+
+
+
+    Type of the FlyGroup: NaWT
+
+    -----------------------------
+
+    Number of Genes: 1152
+
+
+    Number of States: 20
+
+
+      state 1
+: 18 genes
+
+
+      state 10
+: 99 genes
+
+
+      state 11
+: 83 genes
+
+
+      state 12
+: 136 genes
+
+
+      state 13
+: 86 genes
+
+
+      state 14
+: 18 genes
+
+
+      state 15
+: 59 genes
+
+
+      state 16
+: 21 genes
+
+
+      state 17
+: 103 genes
+
+
+      state 18
+: 33 genes
+
+
+      state 19
+: 37 genes
+
+
+      state 2
+: 60 genes
+
+
+      state 20
+: 50 genes
+
+
+      state 3
+: 78 genes
+
+
+      state 4
+: 31 genes
+
+
+      state 5
+: 17 genes
+
+
+      state 6
+: 26 genes
+
+
+      state 7
+: 52 genes
+
+
+      state 8
+: 73 genes
+
+
+      state 9
+: 72 genes
+
+
+    Number of chromatinGroups: 6
+
+
+    HP1_R
+: 285 genes
+
+
+    Non_TrxG
+: 100 genes
+
+
+    Null_R
+: 57 genes
+
+
+    TrxG_M
+: 104 genes
+
+
+    TrxG_P
+: 438 genes
+
+
+    TrxG_R
+: 168 genes
+
+
+
+    Type of the FlyGroup: TrRUT
+
+    -----------------------------
+
+    Number of Genes: 1152
+
+
+    Number of States: 20
+
+
+      state 1
+: 18 genes
+
+
+      state 10
+: 99 genes
+
+
+      state 11
+: 83 genes
+
+
+      state 12
+: 136 genes
+
+
+      state 13
+: 86 genes
+
+
+      state 14
+: 18 genes
+
+
+      state 15
+: 59 genes
+
+
+      state 16
+: 21 genes
+
+
+      state 17
+: 103 genes
+
+
+      state 18
+: 33 genes
+
+
+      state 19
+: 37 genes
+
+
+      state 2
+: 60 genes
+
+
+      state 20
+: 50 genes
+
+
+      state 3
+: 78 genes
+
+
+      state 4
+: 31 genes
+
+
+      state 5
+: 17 genes
+
+
+      state 6
+: 26 genes
+
+
+      state 7
+: 52 genes
+
+
+      state 8
+: 73 genes
+
+
+      state 9
+: 72 genes
+
+
+    Number of chromatinGroups: 6
+
+
+    HP1_R
+: 285 genes
+
+
+    Non_TrxG
+: 100 genes
+
+
+    Null_R
+: 57 genes
+
+
+    TrxG_M
+: 104 genes
+
+
+    TrxG_P
+: 438 genes
+
+
+    TrxG_R
+: 168 genes
+
+
+
+    Type of the FlyGroup: TrWT
+
+    -----------------------------
+
+    Number of Genes: 1152
+
+
+    Number of States: 20
+
+
+      state 1
+: 18 genes
+
+
+      state 10
+: 99 genes
+
+
+      state 11
+: 83 genes
+
+
+      state 12
+: 136 genes
+
+
+      state 13
+: 86 genes
+
+
+      state 14
+: 18 genes
+
+
+      state 15
+: 59 genes
+
+
+      state 16
+: 21 genes
+
+
+      state 17
+: 103 genes
+
+
+      state 18
+: 33 genes
+
+
+      state 19
+: 37 genes
+
+
+      state 2
+: 60 genes
+
+
+      state 20
+: 50 genes
+
+
+      state 3
+: 78 genes
+
+
+      state 4
+: 31 genes
+
+
+      state 5
+: 17 genes
+
+
+      state 6
+: 26 genes
+
+
+      state 7
+: 52 genes
+
+
+      state 8
+: 73 genes
+
+
+      state 9
+: 72 genes
+
+
+    Number of chromatinGroups: 6
+
+
+    HP1_R
+: 285 genes
+
+
+    Non_TrxG
+: 100 genes
+
+
+    Null_R
+: 57 genes
+
+
+    TrxG_M
+: 104 genes
+
+
+    TrxG_P
+: 438 genes
+
+
+    TrxG_R
+: 168 genes
+
+
+------------------------------------
+
+Experiment: Experiment2
+
+------------------------------------
+
+
+    Type of the FlyGroup: NaRUT
+
+    -----------------------------
+
+    Number of Genes: 1152
+
+
+    Number of States: 20
+
+
+      state 1
+: 11 genes
+
+
+      state 10
+: 71 genes
+
+
+      state 11
+: 139 genes
+
+
+      state 12
+: 28 genes
+
+
+      state 13
+: 74 genes
+
+
+      state 14
+: 75 genes
+
+
+      state 15
+: 41 genes
+
+
+      state 16
+: 31 genes
+
+
+      state 17
+: 98 genes
+
+
+      state 18
+: 39 genes
+
+
+      state 19
+: 31 genes
+
+
+      state 2
+: 48 genes
+
+
+      state 20
+: 44 genes
+
+
+      state 3
+: 57 genes
+
+
+      state 4
+: 29 genes
+
+
+      state 5
+: 86 genes
+
+
+      state 6
+: 34 genes
+
+
+      state 7
+: 37 genes
+
+
+      state 8
+: 105 genes
+
+
+      state 9
+: 74 genes
+
+
+    Number of chromatinGroups: 6
+
+
+    HP1_R
+: 183 genes
+
+
+    Non_TrxG
+: 68 genes
+
+
+    Null_R
+: 94 genes
+
+
+    TrxG_M
+: 89 genes
+
+
+    TrxG_P
+: 508 genes
+
+
+    TrxG_R
+: 210 genes
+
+
+
+    Type of the FlyGroup: NaWT
+
+    -----------------------------
+
+    Number of Genes: 1152
+
+
+    Number of States: 20
+
+
+      state 1
+: 11 genes
+
+
+      state 10
+: 71 genes
+
+
+      state 11
+: 139 genes
+
+
+      state 12
+: 28 genes
+
+
+      state 13
+: 74 genes
+
+
+      state 14
+: 75 genes
+
+
+      state 15
+: 41 genes
+
+
+      state 16
+: 31 genes
+
+
+      state 17
+: 98 genes
+
+
+      state 18
+: 39 genes
+
+
+      state 19
+: 31 genes
+
+
+      state 2
+: 48 genes
+
+
+      state 20
+: 44 genes
+
+
+      state 3
+: 57 genes
+
+
+      state 4
+: 29 genes
+
+
+      state 5
+: 86 genes
+
+
+      state 6
+: 34 genes
+
+
+      state 7
+: 37 genes
+
+
+      state 8
+: 105 genes
+
+
+      state 9
+: 74 genes
+
+
+    Number of chromatinGroups: 6
+
+
+    HP1_R
+: 183 genes
+
+
+    Non_TrxG
+: 68 genes
+
+
+    Null_R
+: 94 genes
+
+
+    TrxG_M
+: 89 genes
+
+
+    TrxG_P
+: 508 genes
+
+
+    TrxG_R
+: 210 genes
+
+
+
+    Type of the FlyGroup: TrRUT
+
+    -----------------------------
+
+    Number of Genes: 1152
+
+
+    Number of States: 20
+
+
+      state 1
+: 11 genes
+
+
+      state 10
+: 71 genes
+
+
+      state 11
+: 139 genes
+
+
+      state 12
+: 28 genes
+
+
+      state 13
+: 74 genes
+
+
+      state 14
+: 75 genes
+
+
+      state 15
+: 41 genes
+
+
+      state 16
+: 31 genes
+
+
+      state 17
+: 98 genes
+
+
+      state 18
+: 39 genes
+
+
+      state 19
+: 31 genes
+
+
+      state 2
+: 48 genes
+
+
+      state 20
+: 44 genes
+
+
+      state 3
+: 57 genes
+
+
+      state 4
+: 29 genes
+
+
+      state 5
+: 86 genes
+
+
+      state 6
+: 34 genes
+
+
+      state 7
+: 37 genes
+
+
+      state 8
+: 105 genes
+
+
+      state 9
+: 74 genes
+
+
+    Number of chromatinGroups: 6
+
+
+    HP1_R
+: 183 genes
+
+
+    Non_TrxG
+: 68 genes
+
+
+    Null_R
+: 94 genes
+
+
+    TrxG_M
+: 89 genes
+
+
+    TrxG_P
+: 508 genes
+
+
+    TrxG_R
+: 210 genes
+
+
+
+    Type of the FlyGroup: TrWT
+
+    -----------------------------
+
+    Number of Genes: 1152
+
+
+    Number of States: 20
+
+
+      state 1
+: 11 genes
+
+
+      state 10
+: 71 genes
+
+
+      state 11
+: 139 genes
+
+
+      state 12
+: 28 genes
+
+
+      state 13
+: 74 genes
+
+
+      state 14
+: 75 genes
+
+
+      state 15
+: 41 genes
+
+
+      state 16
+: 31 genes
+
+
+      state 17
+: 98 genes
+
+
+      state 18
+: 39 genes
+
+
+      state 19
+: 31 genes
+
+
+      state 2
+: 48 genes
+
+
+      state 20
+: 44 genes
+
+
+      state 3
+: 57 genes
+
+
+      state 4
+: 29 genes
+
+
+      state 5
+: 86 genes
+
+
+      state 6
+: 34 genes
+
+
+      state 7
+: 37 genes
+
+
+      state 8
+: 105 genes
+
+
+      state 9
+: 74 genes
+
+
+    Number of chromatinGroups: 6
+
+
+    HP1_R
+: 183 genes
+
+
+    Non_TrxG
+: 68 genes
+
+
+    Null_R
+: 94 genes
+
+
+    TrxG_M
+: 89 genes
+
+
+    TrxG_P
+: 508 genes
+
+
+    TrxG_R
+: 210 genes
+
+
