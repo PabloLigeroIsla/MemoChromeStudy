@@ -89,6 +89,7 @@ public class Archive
                             Files.copy(Paths.get(fileCh.getAbsolutePath()),Paths.get(finalFile.getAbsolutePath()),StandardCopyOption.REPLACE_EXISTING);
                         }
                     }
+                    
                     //Loading States
                     File flyGroup = new File(dirInput+"/"+expNames[i]+"/"+experimentGroups[j]);
                     String[] filesOfFlyGroup = flyGroup.list();
@@ -105,6 +106,7 @@ public class Archive
                         }
 
                     }
+                    
                 }
             }
         }

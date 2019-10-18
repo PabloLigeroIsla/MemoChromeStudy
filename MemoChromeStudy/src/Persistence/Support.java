@@ -595,7 +595,6 @@ public class Support
         return stringList.contains(string);
     }
     
-    
     public static ArrayList<String> loadFGNames(ArrayList<FlyGroup> fg)
     {
         //This function return the name of all the Flygroups in an String ArrayList
